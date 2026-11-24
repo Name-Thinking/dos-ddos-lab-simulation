@@ -3,7 +3,7 @@
 โปรเจกต์จำลองการโจมตีแบบ DoS และ DDoS ด้วยวิธี ICMP Flood บนระบบเครือข่ายจำลอง (VirtualBox) และวิเคราะห์ปริมาณทราฟฟิกด้วยโปรแกรม Wireshark
 
 ## Demo Video
-- **ลิงก์วิดีโอสาธิต:** [วางลิงก์ YouTube หรือ Google Drive ของคุณตรงนี้]
+- **ลิงก์วิดีโอสาธิต:** [GoHard Video Live Demo (Google Drive)](https://drive.google.com/drive/folders/1UWy6RxN-n9wvdmf7NMen3Dj9biPiIDSf)
 
 ## Lab Environment (VirtualBox)
 - **Network Mode:** Bridged Adapter (Promiscuous Mode: Allow All)
